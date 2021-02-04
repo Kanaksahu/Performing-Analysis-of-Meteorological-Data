@@ -1,5 +1,5 @@
 # Performing-Analysis-of-Meteorological-Data
-This Blog is created so as to determine the correctness of the null hypothesis (H0) about the meteorological data.
+This project is created so as to determine the correctness of the null hypothesis (H0) about the meteorological data.
 It is a part of the first project — Performing Analysis of Meteorological Data for my Data Analytics using Python internship program at Suven Consultants & Technology Pvt. Ltd.
 # GOAL
 The main objective of this Internship (of data analysis) is to transform the raw data into information and then convert it into knowledge:
